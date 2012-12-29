@@ -17,38 +17,16 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_prash_ohaimark</item>
-        <item>wallpaper_ashersimonds_cmpatternholodark</item>
-        <item>wallpaper_ashersimonds_cmpatternhololight</item>
-        <item>wallpaper_manup456_cid3d</item>
-        <item>wallpaper_nebkat_bokeh</item>
-        <item>wallpaper_beki1984_colorwave</item>
-        <item>wallpaper_eklipze_cheshireyellow</item>
-        <item>wallpaper_eklipze_notquitemono</item>
-        <item>wallpaper_eklipze_technicolorstripes</item>
-        <item>wallpaper_th_shadowchess</item>
-        <item>wallpaper_mathewhanley_earlycorn</item>
-        <item>wallpaper_mathewhanley_defensivebutterfly</item>
-        <item>wallpaper_michaelmedina_beachlogs</item>
-        <item>wallpaper_alexanderwislsperger_melbourne</item>
-        <item>wallpaper_tylerhodge_blueperfection</item>
+        <item>wallpaper_na_hotgirlchameleon</item>
+        <item>wallpaper_alphacoders_oustaletschameleon</item>
+        <item>wallpaper_unknown_bluechameleon</item>
+        <item>wallpaper_unknown_greenchameleon</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Ohai Mark :: Prash</item>
-        <item>Pattern Holo Dark :: Asher Simonds</item>
-        <item>Pattern Holo Light :: Asher Simonds</item>
-        <item>Cid3D :: manup456</item>
-        <item>Bokeh :: nebkat</item>
-        <item>Color Wave :: beki1984</item>
-        <item>Cheshire Yellow :: Eklipze</item>
-        <item>Not Quite Mono :: Eklipze</item>
-        <item>Technicolor Stripes :: Eklipze</item>
-        <item>Shadow Chess :: TH</item>
-        <item>Early Corn :: Mathew Hanley</item>
-        <item>Defensive Butterfly :: Mathew Hanley</item>
-        <item>Beach Logs :: Michael Medina</item>
-        <item>Melbourne :: Alexander Wislsperger</item>
-        <item>Blue Perfection :: Tyler Hodge</item>
+        <item>Hot Girl Chameleon :: N/A</item>
+        <item>Oustalet\'s Chameleon :: Alpha Coders</item>
+        <item>Blue Chameleon :: Unknown</item>
+        <item>Green Chameleon :: Unknown</item>
     </string-array>
 </resources>
