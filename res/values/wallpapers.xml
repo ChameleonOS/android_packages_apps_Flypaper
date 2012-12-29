@@ -18,6 +18,7 @@
 <resources>
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_na_hotgirlchameleon</item>
+        <item>wallpaper_vladstudio_alienandchameleon</item>
         <item>wallpaper_alphacoders_oustaletschameleon</item>
         <item>wallpaper_unknown_bluechameleon</item>
         <item>wallpaper_unknown_greenchameleon</item>
@@ -25,6 +26,7 @@
 
     <string-array name="info" translatable="false">
         <item>Hot Girl Chameleon :: N/A</item>
+        <item>Alien and Chameleon :: Vlad Studio</item>
         <item>Oustalet\'s Chameleon :: Alpha Coders</item>
         <item>Blue Chameleon :: Unknown</item>
         <item>Green Chameleon :: Unknown</item>
